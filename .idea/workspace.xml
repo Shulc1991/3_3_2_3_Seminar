@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32edb93d-5ff6-482a-97fd-b58cb77061c9" name="Changes" comment="" />
+    <list default="true" id="32edb93d-5ff6-482a-97fd-b58cb77061c9" name="Changes" comment="done 16_dz&#10;done all dz">
+      <change afterPath="$PROJECT_DIR$/18_dz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_dz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_dz.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_dz.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +24,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5db7333b-709a-4eae-8639-911dc0f9979c" />
+        <option name="url" value="https://github.com/Shulc1991/3_3_2_3_Seminar.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MF31VTf7Xd0pTO4XXK7dk8Oqx6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,10 +52,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/mirroman/tuzhlovroman/Google Диск/3_Обучение/GeekBrains/3_Разработчик. Проджект-менеджер. Цифровые профессии/3_3_Вне четверти/3_3_2_Знакомство с языком Python (семинары)/3_3_2_3_Seminar"
+    "last_opened_file_path": "/Users/mirroman/tuzhlovroman/Google Диск/3_Обучение/GeekBrains/3_Разработчик. Проджект-менеджер. Цифровые профессии/3_3_Вне четверти/3_3_2_Знакомство с языком Python (семинары)/3_3_2_3_Seminar",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.16_dz">
+  <component name="RunManager">
     <configuration name="16_dz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="3_3_2_3_Seminar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +114,27 @@
       <option name="presentableId" value="Default" />
       <updated>1677349288031</updated>
     </task>
+    <task id="LOCAL-00001" summary="done 16_dz">
+      <created>1677349846953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677349846953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done 16_dz&#10;done all dz">
+      <created>1677351045178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677351045178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done 16_dz" />
+    <MESSAGE value="done 16_dz&#10;done all dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 16_dz&#10;done all dz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
